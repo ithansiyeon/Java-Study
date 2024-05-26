@@ -22,8 +22,7 @@ public class ProductOrderMain {
         productOrders[2] = order3;
         int totalAmount = 0;
         for (ProductOrder order : productOrders) {
-            System.out.println("상품명: " + order.productName + ", 가격: " + order.price + ", 수량: " + order.quantity);
-            totalAmount += order.quantity * order.price;
+            System.out.println("상품명: " + order.productName + " ,가격: " + order.price + " 수량: " + order.quantity);
         }
         System.out.println("총 결제 금액: " + totalAmount);
         totalAmount = Arrays.stream(productOrders).toList().stream().mapToInt(o -> o.price * o.quantity).sum();
