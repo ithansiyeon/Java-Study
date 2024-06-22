@@ -16,7 +16,7 @@ public class MusicPlayerMain3 {
         //음악 플레이어 상태
         showStatus(data);
         //음악 플레이어 끄기
-        on(data);
+        off(data);
     }
 
     static void on(MusicPlayerData data) {
