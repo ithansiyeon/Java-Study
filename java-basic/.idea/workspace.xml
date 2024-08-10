@@ -1,30 +1,188 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2e17140-f54e-4b56-b221-647bec3b2b89" name="Changes" comment="" />
+    <list default="true" id="f2e17140-f54e-4b56-b221-647bec3b2b89" name="Changes" comment="클래스와 데이터" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ithansiyeon&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ithansiyeon/Java-Study.git&quot;,
+    &quot;accountId&quot;: &quot;55e685c8-d96f-4e68-8bb5-858607367ebd&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2h0LOGu6D2VWbBkp0gouNcz40hW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/siyeon/Desktop/Java-Study/java-basic/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AccessOuterMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AccountMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BankAccountMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BookMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConstructMain1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConstructMain2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CounterMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DataCountMain1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DataCountMain2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DataCountMain3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DecoMain1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DecoMain2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InitMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JavaMemoryMain1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JavaMemoryMain2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MemberDefaultMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Method1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Method2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodChange1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodChange2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodInitMain1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodInitMain2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodInitMain3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MovieReviewMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MovieReviewMain1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MusicPlayerMain1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MusicPlayerMain2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MusicPlayerMain3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MusicPlayerMain4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NullMain1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NullMain3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NullMain4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PackageMain1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PackageMain3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProductOrderMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProductOrderMain2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProductOrderMain3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PublicClassInnerMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RectangleProceduralMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ShoppingCartMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SpeakerMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ValueObjectMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VarChange1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VarChange2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/siyeon/Desktop/Java-Study/java-basic/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/siyeon/Desktop/Java-Study/java-basic/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="static2" />
+      <recent name="access.b" />
+      <recent name="pack" />
+      <recent name="pack.a" />
+      <recent name="construct" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="DataCountMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="static1.DataCountMain2" />
+      <module name="java-basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="static1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataCountMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="static1.DataCountMain3" />
+      <module name="java-basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="static1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DecoMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="static2.DecoMain1" />
+      <module name="java-basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="static2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DecoMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="static2.DecoMain2" />
+      <module name="java-basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="static2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="java-basic" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.DecoMain2" />
+        <item itemvalue="Application.DecoMain1" />
+        <item itemvalue="Application.DataCountMain3" />
+        <item itemvalue="Application.DataCountMain2" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -41,21 +199,83 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716726014778</updated>
+      <workItem from="1716726015797" duration="3489000" />
+      <workItem from="1717075872827" duration="294000" />
+      <workItem from="1717313926196" duration="4823000" />
+      <workItem from="1717331986016" duration="3439000" />
+      <workItem from="1717417234247" duration="3256000" />
+      <workItem from="1717503721096" duration="2785000" />
+      <workItem from="1717646001620" duration="783000" />
+      <workItem from="1717664702740" duration="599000" />
+      <workItem from="1717742641074" duration="1250000" />
+      <workItem from="1717766410942" duration="4236000" />
+      <workItem from="1718196390968" duration="2088000" />
+      <workItem from="1718284444766" duration="401000" />
+      <workItem from="1718527366617" duration="1389000" />
+      <workItem from="1718629265392" duration="1333000" />
+      <workItem from="1718717790363" duration="1453000" />
+      <workItem from="1718800813682" duration="1672000" />
+      <workItem from="1719059857340" duration="6210000" />
+      <workItem from="1719232223706" duration="2236000" />
+      <workItem from="1719405588251" duration="113000" />
+      <workItem from="1719405712635" duration="1106000" />
+      <workItem from="1719748514557" duration="3950000" />
+      <workItem from="1719841170835" duration="4000" />
+      <workItem from="1720096530607" duration="107000" />
+      <workItem from="1720096645376" duration="907000" />
+      <workItem from="1720097932555" duration="2150000" />
+      <workItem from="1720257742456" duration="5687000" />
+      <workItem from="1720319228269" duration="2547000" />
+      <workItem from="1720423894086" duration="10016000" />
+      <workItem from="1720527090599" duration="2561000" />
+      <workItem from="1720703353363" duration="1508000" />
+      <workItem from="1720946300783" duration="1995000" />
+      <workItem from="1720962331051" duration="1067000" />
+      <workItem from="1721132381863" duration="2475000" />
+      <workItem from="1721565121935" duration="2003000" />
+      <workItem from="1721736426177" duration="4716000" />
+      <workItem from="1722144914839" duration="104000" />
+      <workItem from="1722145032289" duration="12567000" />
+      <workItem from="1722253656687" duration="3347000" />
+      <workItem from="1722340955435" duration="2998000" />
+      <workItem from="1722426793837" duration="4140000" />
+      <workItem from="1722510389426" duration="2089000" />
+      <workItem from="1722760462387" duration="2983000" />
+      <workItem from="1722775686768" duration="803000" />
+      <workItem from="1722776499013" duration="495000" />
+      <workItem from="1722856984875" duration="5497000" />
+      <workItem from="1723011471293" duration="4903000" />
+      <workItem from="1723199853122" duration="5081000" />
+      <workItem from="1723293031575" duration="3621000" />
+      <workItem from="1723300350169" duration="45000" />
     </task>
+    <task id="LOCAL-00001" summary="클래스와 데이터">
+      <option name="closed" value="true" />
+      <created>1716726192787</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716726192787</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="클래스와 데이터" />
+    <option name="LAST_COMMIT_MESSAGE" value="클래스와 데이터" />
   </component>
 </project>
