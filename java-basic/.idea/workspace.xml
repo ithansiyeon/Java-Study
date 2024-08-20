@@ -44,77 +44,79 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AccessOuterMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AccountMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BankAccountMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BookMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CarMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConstantMain1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConstantMain2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConstructMain1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConstructMain2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CounterMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DataCountMain1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DataCountMain2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DataCountMain3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DecoDataMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DecoMain1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DecoMain2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FinalFieldMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FinalLocalMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InitMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.JavaMemoryMain1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.JavaMemoryMain2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MathArrayUtilsMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MemberDefaultMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MemberMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Method1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Method2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodChange1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodChange2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodInitMain1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodInitMain2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodInitMain3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MovieReviewMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MovieReviewMain1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MusicPlayerMain1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MusicPlayerMain2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MusicPlayerMain3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MusicPlayerMain4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NullMain1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NullMain3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NullMain4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PackageMain1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PackageMain3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ProductOrderMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ProductOrderMain2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ProductOrderMain3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PublicClassInnerMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RectangleProceduralMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ShoppingCartMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SpeakerMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ValueObjectMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VarChange1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VarChange2.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/siyeon/Desktop/Java-Study/java-basic/src&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/siyeon/Desktop/Java-Study/java-basic/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AccessOuterMain.executor": "Run",
+    "Application.AccountMain.executor": "Run",
+    "Application.BankAccountMain.executor": "Run",
+    "Application.BookMain.executor": "Run",
+    "Application.CarMain.executor": "Run",
+    "Application.ConstantMain1.executor": "Run",
+    "Application.ConstantMain2.executor": "Run",
+    "Application.ConstructMain1.executor": "Run",
+    "Application.ConstructMain2.executor": "Run",
+    "Application.CounterMain.executor": "Run",
+    "Application.DataCountMain1.executor": "Run",
+    "Application.DataCountMain2.executor": "Run",
+    "Application.DataCountMain3.executor": "Run",
+    "Application.DecoDataMain.executor": "Run",
+    "Application.DecoMain1.executor": "Run",
+    "Application.DecoMain2.executor": "Run",
+    "Application.FinalFieldMain.executor": "Run",
+    "Application.FinalLocalMain.executor": "Run",
+    "Application.InitMain.executor": "Run",
+    "Application.JavaMemoryMain1.executor": "Run",
+    "Application.JavaMemoryMain2.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MathArrayUtilsMain.executor": "Run",
+    "Application.MemberDefaultMain.executor": "Run",
+    "Application.MemberMain.executor": "Run",
+    "Application.Method1.executor": "Run",
+    "Application.Method2.executor": "Run",
+    "Application.MethodChange1.executor": "Run",
+    "Application.MethodChange2.executor": "Run",
+    "Application.MethodInitMain1.executor": "Run",
+    "Application.MethodInitMain2.executor": "Run",
+    "Application.MethodInitMain3.executor": "Run",
+    "Application.MovieReviewMain.executor": "Run",
+    "Application.MovieReviewMain1.executor": "Run",
+    "Application.MusicPlayerMain1.executor": "Run",
+    "Application.MusicPlayerMain2.executor": "Run",
+    "Application.MusicPlayerMain3.executor": "Run",
+    "Application.MusicPlayerMain4.executor": "Run",
+    "Application.NullMain1.executor": "Run",
+    "Application.NullMain3.executor": "Run",
+    "Application.NullMain4.executor": "Run",
+    "Application.PackageMain1.executor": "Run",
+    "Application.PackageMain3.executor": "Run",
+    "Application.ProductOrderMain.executor": "Run",
+    "Application.ProductOrderMain2.executor": "Run",
+    "Application.ProductOrderMain3.executor": "Run",
+    "Application.PublicClassInnerMain.executor": "Run",
+    "Application.RectangleProceduralMain.executor": "Run",
+    "Application.ShoppingCartMain.executor": "Run",
+    "Application.SpeakerMain.executor": "Run",
+    "Application.ValueObjectMain.executor": "Run",
+    "Application.VarChange1.executor": "Run",
+    "Application.VarChange2.executor": "Run",
+    "Application.extends1.ex2.CarMain.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/siyeon/Desktop/Java-Study/java-basic/src/extends1/ex3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/siyeon/Desktop/Java-Study/java-basic/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/extends1/ex3" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -125,7 +127,7 @@
       <recent name="pack.a" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CarMain">
+  <component name="RunManager" selected="Application.extends1.ex2.CarMain">
     <configuration name="CarMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="extends1.ex1.CarMain" />
       <module name="java-basic" />
@@ -165,19 +167,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FinalFieldMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="final1.FinalFieldMain" />
-      <module name="java-basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="final1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MemberMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="final1.ex.MemberMain" />
       <module name="java-basic" />
@@ -191,13 +180,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="extends1.ex2.CarMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extends1.ex2.CarMain" />
+      <module name="java-basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="extends1.ex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.extends1.ex2.CarMain" />
         <item itemvalue="Application.CarMain" />
         <item itemvalue="Application.MemberMain" />
         <item itemvalue="Application.ConstantMain2" />
         <item itemvalue="Application.ConstantMain1" />
-        <item itemvalue="Application.FinalFieldMain" />
       </list>
     </recent_temporary>
   </component>
@@ -276,7 +278,11 @@
       <workItem from="1723952835293" duration="1779000" />
       <workItem from="1723960475659" duration="1943000" />
       <workItem from="1723962768390" duration="4192000" />
-      <workItem from="1723970432258" duration="1101000" />
+      <workItem from="1723970432258" duration="1283000" />
+      <workItem from="1723980391581" duration="3094000" />
+      <workItem from="1724068449900" duration="1682000" />
+      <workItem from="1724070644963" duration="1364000" />
+      <workItem from="1724155269947" duration="1016000" />
     </task>
     <task id="LOCAL-00001" summary="클래스와 데이터">
       <option name="closed" value="true" />
