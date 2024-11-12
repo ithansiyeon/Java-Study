@@ -22,5 +22,8 @@ public class ToStringMain2 {
 		print(car);
 		print(dog1);
 		print(dog2);
+
+		String refValue = Integer.toHexString(System.identityHashCode(dog1));
+		System.out.println("refValue = " + refValue);
 	}
 }
