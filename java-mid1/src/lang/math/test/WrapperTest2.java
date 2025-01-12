@@ -1,4 +1,4 @@
-package lang.wrapper.test;
+package lang.math.test;
 
 public class WrapperTest2 {
 	public static void main(String[] args) {
