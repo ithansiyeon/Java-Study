@@ -14,5 +14,4 @@ public class EnumRefMain {
 	private static String refValue(Object grade) {
 		return Integer.toHexString(System.identityHashCode(grade));
 	}
-
 }

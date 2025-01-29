@@ -1,10 +1,9 @@
-package enumration.ex3;
+package enumration.ref2;
 
 import java.util.Arrays;
 
-public class EnumMethodMain {
+public class EnumRefMain2 {
 	public static void main(String[] args) {
-
 		// 모든 Enum 반환
 		Grade[] values = Grade.values();
 		System.out.println("values = " + Arrays.toString(values));
@@ -16,6 +15,5 @@ public class EnumMethodMain {
 		String input = "GOLD";
 		Grade gold = Grade.valueOf(input);
 		System.out.println("gold = " + gold); //toString() 오버라이딩 가능
-		
 	}
 }
