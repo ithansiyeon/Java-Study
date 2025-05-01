@@ -1,7 +1,5 @@
 package nested.anonymous.ex;
 
-import nested.local.Printer;
-
 public class Ex0RefMain {
 	public static void hello(String str) {
 		System.out.println("프로그램 시작");
