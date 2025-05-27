@@ -1,5 +1,8 @@
-package exception.ex3.exception;
+package exception.ex3;
 
+
+import exception.ex3.exception.ConnectExceptionV3;
+import exception.ex3.exception.SendExceptionV3;
 
 public class NetworkClientV3 {
 	private final String address;
@@ -10,17 +13,17 @@ public class NetworkClientV3 {
 		this.address = address;
 	}
 
-	public void connect() throws ConnectException {
+	public void connect() throws ConnectExceptionV3 {
 		if (connectError) {
-			throw new ConnectException(address,  address + " 서버 연결 실패" );
+			throw new ConnectExceptionV3(address,  address + " 서버 연결 실패" );
 		}
 		//연결 성공
 		System.out.println(address + " 서버 연결 성공");
 	}
 
-	public void send(String data) throws SendException {
+	public void send(String data) throws SendExceptionV3 {
 		if (sendError) {
-			throw new SendException(data, address + " 서버 데이터 전송 실패: " + data);
+			throw new SendExceptionV3(data, address + " 서버 데이터 전송 실패: " + data);
 		}
 		//전송 성공
 		System.out.println(address + " 서버에 데이터 전송: " + data);

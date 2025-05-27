@@ -1,9 +1,9 @@
 package exception.ex3.exception;
 
-public class ConnectException extends NetworkClientExceptionV3 {
+public class ConnectExceptionV3 extends NetworkClientExceptionV3 {
 	private final String address;
 
-	public ConnectException(String address, String message) {
+	public ConnectExceptionV3(String address, String message) {
 		super(message);
 		this.address = address;
 	}

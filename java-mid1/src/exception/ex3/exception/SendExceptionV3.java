@@ -1,9 +1,9 @@
 package exception.ex3.exception;
 
-public class SendException extends NetworkClientExceptionV3 {
+public class SendExceptionV3 extends NetworkClientExceptionV3 {
 	private String sendData;
 
-	public SendException(String sendData, String message) {
+	public SendExceptionV3(String sendData, String message) {
 		super(message);
 		this.sendData = sendData;
 	}
