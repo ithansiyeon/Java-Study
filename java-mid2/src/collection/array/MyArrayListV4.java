@@ -40,6 +40,11 @@ public class MyArrayListV4<E> {
 		size++;
 	}
 
+	public void addBad(E s) {
+		elementData[size] = s;
+		size++;
+	}
+
 	private void shiftRightForm(int index) {
 		for (int i = size; i > index; i--) {
 			elementData[i] = elementData[i-1];
